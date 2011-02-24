@@ -18,7 +18,7 @@
 */
 
 #include <ibus.h>
-#include <ibusengine.h>
+//#include <ibusengine.h>
 #include <string.h>
 #include "engine.h"
 
