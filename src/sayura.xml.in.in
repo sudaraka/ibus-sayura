@@ -20,6 +20,7 @@
 			<layout>us</layout>
 			<longname>Sayura</longname>
 			<description>Sayura Input Method</description>
+			<rank>1</rank>
 		</engine>
 	</engines>
 
