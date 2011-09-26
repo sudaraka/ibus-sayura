@@ -21,6 +21,7 @@
 			<longname>Sayura</longname>
 			<description>Sayura Input Method</description>
 			<rank>1</rank>
+			<symbol>&#x0dc3;&#x0dd2;</symbol>
 		</engine>
 	</engines>
 
